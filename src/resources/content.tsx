@@ -26,8 +26,6 @@ const newsletter: Newsletter = {
 };
 
 const social: Social = [
-  // Links are automatically displayed.
-  // Import new icons in /once-ui/icons.ts
   {
     name: "GitHub",
     icon: "github",
@@ -105,7 +103,7 @@ const about: About = {
         frameworks, frontend architecture, CI/CD pipelines, and performance
         tuning. Combining UI and API automation to deliver high quality,
         reliable releases. Known for creating user friendly features and
-        collaborating across teams in fast paced Agile environments.
+        collaborating across teams in fast paced agile environments.
       </>
     ),
   },
@@ -114,7 +112,7 @@ const about: About = {
     title: "Work Experience",
     experiences: [
       {
-        company: "American Expres",
+        company: "American Express",
         timeframe: "2019 - Present",
         role: "Software Engineer",
         achievements: [
@@ -144,12 +142,6 @@ const about: About = {
           </>,
         ],
         images: [
-          // {
-          //   src: "/images/projects/project-01/cover-01.jpg",
-          //   alt: "Once UI Project",
-          //   width: 16,
-          //   height: 9,
-          // },
         ],
       },
       {
