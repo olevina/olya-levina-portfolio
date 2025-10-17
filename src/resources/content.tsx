@@ -15,8 +15,8 @@ const person: Person = {
   role: "UI and Test Automation Engineer",
   avatar: "/images/avatar.jpg",
   email: "olevina@ymail.com",
-  location: "America/Los_Angeles", // Expecting the IANA time zone identifier, e.g., 'America/Los_Angeles' for San Diego
-  languages: ["English", "Russian"], // optional: Leave the array empty if you don't want to display languages
+  location: "America/Los_Angeles",
+  languages: ["English", "Russian"], 
 };
 
 const newsletter: Newsletter = {
